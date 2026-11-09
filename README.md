@@ -1,4 +1,4 @@
-# python-practices
+# practices
 this is my first Git Respository
  <br>
  Author - Sana Parveen
